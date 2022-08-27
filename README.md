@@ -82,7 +82,6 @@
     
     </style>
 </head>
-<body id="j2">
    <h1>hello Mr! </h1>
       <p>welcome to website</p>
       <h1 id="z2">enter the details!</h1> 
