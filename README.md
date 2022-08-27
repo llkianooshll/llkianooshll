@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -83,10 +83,10 @@
     </style>
 </head>
 <body id="j2">
-   <div><h1>hello Mr! </h1>
+   <h1>hello Mr! </h1>
       <p>welcome to website</p>
       <h1 id="z2">enter the details!</h1> 
-   </div>
+   
     
     
             <label for="d2">Fname</label>
