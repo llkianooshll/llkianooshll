@@ -6,10 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <style> 
-    div {
-      border: 2px solid darkorchid;
-      background-color: darkblue;
-    }
              
         
         h1 {
