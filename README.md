@@ -104,4 +104,4 @@
             <input id="d6type" type="submit" value="send"><br>
             <input type="checkbox">
 
-</body
+
